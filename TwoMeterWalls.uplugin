@@ -2,6 +2,7 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0.0",
+		"SemVersion": "1.0.0",
 	"FriendlyName": "TwoMeterWalls",
 	"Description": "2m high walls for the extra efficient builder",
 	"Category": "Modding",
@@ -22,7 +23,4 @@
 			"BasePlugin": false
 		}
 	],
-	"SemVersion": "1.0.0",
-	"RemoteVersionRange": "",
-	"AcceptsAnyRemoteVersion": false
 }
