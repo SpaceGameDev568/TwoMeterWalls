@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.1",
-	"SemVersion": "1.0.1",
+	"VersionName": "1.0.2",
+	"SemVersion": "1.0.2",
 	"FriendlyName": "TwoMeterWalls",
 	"Description": "2m high walls for the extra efficient builder",
 	"Category": "Modding",
@@ -19,7 +19,7 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.6.1",
+			"SemVersion": "^3.7.0",
 			"BasePlugin": false
 		}
 	]
