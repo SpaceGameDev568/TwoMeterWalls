@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0.2",
-	"SemVersion": "1.0.2",
+	"Version": 2,
+	"VersionName": "2.0.0",
+	"SemVersion": "2.0.0",
 	"FriendlyName": "TwoMeterWalls",
 	"Description": "2m high walls for the extra efficient builder",
 	"Category": "Modding",
@@ -19,8 +19,15 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.7.0",
+			"SemVersion": "^3.8.0-dev",
 			"BasePlugin": false
+		},
+		{
+			"Name": "ModUpdateNotifier",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": "^2.0.0"
 		}
-	]
+	],
+	"GameVersion": ">=365306"
 }
