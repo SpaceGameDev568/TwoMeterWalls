@@ -1,5 +1,5 @@
 # Remove Models directory for copyright reasons
-/Content/FactoryDecorMod/Models/*
+/Content/Models/*
 
 # Ignore saved build artifacts
 /Saved/*
@@ -9,9 +9,5 @@
 # Ignore Crypto.json because the mod doesn't use pak file encryption
 /Modding/*
 
-# Ignore my Blender source assets
-/BlenderAssets/*
-
 # Ignore my various source assets
 /SourceAssets/*
-Content/FactoryDecorMod/Models/
